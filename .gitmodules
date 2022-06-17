@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ENCODExplorer"]
+	path = ENCODExplorer
+	url = https://github.com/charlesjb/encodexplorer
+	shallow = true
+	registered = true
+[submodule "metagene"]
+	path = metagene
+	url = https://github.com/charlesjb/metagene
+	shallow = true
+	registered = true
