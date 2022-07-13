@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "package": "ENCODExplorer"
+  },
+  {
+    "package": "metagene"
+  }
+]
